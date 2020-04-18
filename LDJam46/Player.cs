@@ -1,7 +1,7 @@
 using Godot;
 using System;
 
-public class Player : Node2D
+public class Player : KinematicBody2D
 {
   	private int a = 2;
   	
